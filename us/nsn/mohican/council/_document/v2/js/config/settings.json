@@ -30,10 +30,7 @@
       },
       "footer": { "image": "", "srcset": [] }
     },
-    "fonts": [
-      "/biticons/biticons.css",
-      "/fonts/roboto-condensed/roboto-condensed.css"
-    ],
+    "fonts": [ "/biticons/biticons.css" ],
     "feature": { "reader": true, "openGraph": true, "pwa": true },
     "pwa": {
       "name": "Stockbridge-Munsee Tribal Law Library",
