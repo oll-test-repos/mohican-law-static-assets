@@ -14,7 +14,10 @@
     "themeId": "/us/nsn/mohican/council",
     "themeType": "custom",
     "entityName": "mohican",
-    "staticAssets": "git@github.com:oll-test-repos/mohicanlaw-law-static-assets.git",
+    "staticAssets": {
+      "development": "git@github.com:oll-test-repos/mohicanlaw-law-static-assets.git",
+      "production": ""
+    },
     "style": { "namespaceSuffix": "us-nsn-mhcn-council" },
     "fetchCodeRecency": true,
     "logo": {
@@ -50,7 +53,10 @@
       "defaultDescription": "Latest official version of laws, resolutions, and code.",
       "defaultImage": "/images/og/og_image.png"
     },
-    "contact": { "email": "help@openlawlib.org" },
+    "contact": {
+      "email": "help@openlawlib.org",
+      "content": "<p>Open Law Library strives for total accuracy, but mistakes do happen. Please help make the law more accessible by reporting any inaccuracies you might find or if you have any feedback that can help us improve your experience.</p>"
+    },
     "analytics": { "trackingPixel": "/_analytics/pixel.png", "trackingSite": "" }
   }
 }
