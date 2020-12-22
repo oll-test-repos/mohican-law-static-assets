@@ -26,14 +26,25 @@
       "header": {
         "image": "/images/logo/mohican-logo.png",
         "srcset": [
-          "/images/logo/mohican-logo.png",
-          "/images/logo/mohican-logo@2x.png",
-          "/images/logo/mohican-logo@3x.png"
+          "/images/logo/mohican-logo.png 1x",
+          "/images/logo/mohican-logo@2x.png 2x",
+          "/images/logo/mohican-logo@3x.png 3x"
         ]
       },
-      "footer": { "image": "", "srcset": [] }
+      "footer": {
+        "image": "/images/logo/mohican-logo.png",
+        "srcset": [
+          "/images/logo/mohican-logo.png 1x",
+          "/images/logo/mohican-logo@2x.png 2x",
+          "/images/logo/mohican-logo@3x.png 3x"
+        ]
+      }
     },
-    "fonts": [ "/biticons/biticons.css" ],
+    "fonts": [
+      "/biticons/biticons.css",
+      "/fonts/roboto-condensed/roboto-condensed.css",
+      "/fonts/roboto/roboto.css"
+    ],
     "feature": { "reader": true, "openGraph": true, "pwa": true },
     "pwa": {
       "name": "Stockbridge-Munsee Tribal Law Library",
