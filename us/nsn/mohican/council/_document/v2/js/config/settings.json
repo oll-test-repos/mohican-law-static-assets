@@ -13,7 +13,7 @@
     "favicon": "/images/favicons/favicon.ico",
     "themeId": "/us/nsn/mohican/council",
     "themeType": "custom",
-    "entityName": "mohican",
+    "entityName": "mohicanlaw",
     "staticAssets": {
       "development": "git@github.com:oll-test-repos/mohicanlaw-law-static-assets.git",
       "production": ""
