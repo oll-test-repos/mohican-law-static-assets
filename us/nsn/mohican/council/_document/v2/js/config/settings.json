@@ -4,7 +4,7 @@
     "language": "en-US",
     "gitProviderURL": "https://github.com",
     "gitOrgName": "mohicanlaw",
-    "liveSite": "//mohican.nsn.us.demos.open.law",
+    "liveSite": "https://law.mohican.com/",
     "displayName": "Stockbridge-Munsee Tribal Law Library",
     "entityId": "us/nsn/mohican/council"
   },
@@ -16,7 +16,7 @@
     "entityName": "mohicanlaw",
     "staticAssets": {
       "development": "git@github.com:oll-test-repos/mohicanlaw-law-static-assets.git",
-      "production": ""
+      "production": "git@github.com:mohicanlaw/law-static-assets.git"
     },
     "style": { "namespaceSuffix": "us-nsn-mhcn-council" },
     "fetchCodeRecency": true,
