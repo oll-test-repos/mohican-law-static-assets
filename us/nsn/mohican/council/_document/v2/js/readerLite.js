@@ -45663,7 +45663,7 @@ module.exports = JSON.parse('{"resolutions":{"mobile":{"name":"mobile","breakpoi
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"clientVersion":"2.35.0","themeVersion":"v2","themeType":"custom","themeName":"custom","themeId":"/us/nsn/mohican/council","style":{"namespaceSuffix":"us-nsn-mhcn-council"},"logo":{"libraryLogo":{"image":"","srcset":[]},"header":{"image":"/images/logo/mohican-logo.png","srcset":["/images/logo/mohican-logo.png 1x","/images/logo/mohican-logo@2x.png 2x","/images/logo/mohican-logo@3x.png 3x"]},"footer":{"image":"/images/logo/mohican-logo.png","srcset":["/images/logo/mohican-logo.png 1x","/images/logo/mohican-logo@2x.png 2x","/images/logo/mohican-logo@3x.png 3x"]}},"fonts":["/biticons/biticons.css","/fonts/roboto-condensed/roboto-condensed.css","/fonts/roboto/roboto.css"],"contact":{"email":"help@openlawlib.org"},"fetchCodeRecency":true,"reader":{"rootUrl":"/"}}');
+module.exports = JSON.parse('{"clientVersion":"2.36.0","themeVersion":"v2","themeType":"custom","themeName":"custom","themeId":"/us/nsn/mohican/council","style":{"namespaceSuffix":"us-nsn-mhcn-council"},"logo":{"libraryLogo":{"image":"","srcset":[]},"header":{"image":"/images/logo/mohican-logo.png","srcset":["/images/logo/mohican-logo.png 1x","/images/logo/mohican-logo@2x.png 2x","/images/logo/mohican-logo@3x.png 3x"]},"footer":{"image":"/images/logo/mohican-logo.png","srcset":["/images/logo/mohican-logo.png 1x","/images/logo/mohican-logo@2x.png 2x","/images/logo/mohican-logo@3x.png 3x"]}},"fonts":["/biticons/biticons.css","/fonts/roboto-condensed/roboto-condensed.css","/fonts/roboto/roboto.css"],"contact":{"email":"help@openlawlib.org"},"fetchCodeRecency":true,"reader":{"rootUrl":"/"}}');
 
 /***/ })
 
@@ -45784,7 +45784,7 @@ module.exports = JSON.parse('{"clientVersion":"2.35.0","themeVersion":"v2","them
 /******/ 		// This function allow to reference async chunks
 /******/ 		__webpack_require__.u = (chunkId) => {
 /******/ 			// return url for filenames based on template
-/******/ 			return "" + chunkId + "-v2-35-0-" + "9eacd7" + ".js";
+/******/ 			return "" + chunkId + "-v2-36-0-" + "9eacd7" + ".js";
 /******/ 		};
 /******/ 	})();
 /******/ 	
