@@ -1,17 +1,47 @@
 {
-	"clientVersion": "2.48.4",
-	"themeVersion": "v2",
-	"themeType": "custom",
-	"themeName": "custom",
-	"themeId": "/us/nsn/mohican/council",
-	"style": {"namespaceSuffix":"us-nsn-mhcn-council"},
-	"logo": {
-		"libraryLogo": {"image":"","srcset":[]},
-		"header": {"image":"/images/logo/mohican-logo.png","srcset":["/images/logo/mohican-logo.png 1x","/images/logo/mohican-logo@2x.png 2x","/images/logo/mohican-logo@3x.png 3x"]},
-		"footer": {"image":"/images/logo/mohican-logo.png","srcset":["/images/logo/mohican-logo.png 1x","/images/logo/mohican-logo@2x.png 2x","/images/logo/mohican-logo@3x.png 3x"]}
-	},
-	"fonts": ["/biticons/biticons.css","/fonts/roboto-condensed/roboto-condensed.css","/fonts/roboto/roboto.css"],
-	"contact": {"email":"help@openlawlib.org"},
-	"fetchCodeRecency": true,
-	"reader": {"rootUrl":"/"}
+  "clientVersion": "2.49.0",
+  "themeVersion": "v2",
+  "themeType": "custom",
+  "themeName": "custom",
+  "themeId": "/us/nsn/mohican/council",
+  "style": {
+    "namespaceSuffix": "us-nsn-mhcn-council"
+  },
+  "logo": {
+    "libraryLogo": {
+      "image": "",
+      "srcset": []
+    },
+    "header": {
+      "image": "/images/logo/mohican-logo.png",
+      "srcset": [
+        "/images/logo/mohican-logo.png 1x",
+        "/images/logo/mohican-logo@2x.png 2x",
+        "/images/logo/mohican-logo@3x.png 3x"
+      ]
+    },
+    "footer": {
+      "image": "/images/logo/mohican-logo.png",
+      "srcset": [
+        "/images/logo/mohican-logo.png 1x",
+        "/images/logo/mohican-logo@2x.png 2x",
+        "/images/logo/mohican-logo@3x.png 3x"
+      ]
+    }
+  },
+  "fonts": [
+    "/biticons/biticons.css",
+    "/fonts/roboto-condensed/roboto-condensed.css",
+    "/fonts/roboto/roboto.css"
+  ],
+  "contact": {
+    "email": "help@openlawlib.org"
+  },
+  "reader": {
+    "rootUrl": "/",
+    "themeVariation": {
+      "header": "hv3",
+      "footer": "fv2"
+    }
+  }
 }
